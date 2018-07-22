@@ -30,3 +30,6 @@ Frontend Javascript
 1, Encryption for user protection in .Net
 2, Using Javascript to bolster the frontend instead of builtin .Net Bootstrap.
 3, Replace Bootstrap with homebrew markup, styling and scripting for the frontend presentation.
+
+### Project Tracker
+I will use Github Projects
